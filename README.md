@@ -1,6 +1,6 @@
 <div>
   <h1 align="center"><a href="https://www.linkedin.com/in/denisespanhol/"><i>Denis Espanhol</i></a> aqui! Espero que esteja bem, e seja-bem vinde! 😃️</h1>
-  <p align="center">Atualmente estudando Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>, e ministrando aulas de programação para o fundamental I, através de ferramentas como Scratch, Kodu Game Lab, Arduino etc.</p>
+  <p align="center">Atualmente estudando Desenvolvimento Web na <a href="https://www.betrybe.com/"><i>Trybe</i></a>, e ministrando aulas de programação para o fundamental I, no <a href="https://fundacaoromi.org.br/fundacao/nei/"><i>Núcleo de Educação Integrada da Fundação Romi</i></a>, em Santa Bárbara D'Oeste/SP, através de ferramentas como Scratch, Kodu Game Lab, Arduino etc.</p>
 </div>
 
 
