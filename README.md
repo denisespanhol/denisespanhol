@@ -36,6 +36,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Aprendi, mergulhado no medo de tocar um vespeiro criado por mim, que a picada é inevitável. - De mim para mim.</p>
 </div>
