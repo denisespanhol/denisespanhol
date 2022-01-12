@@ -35,6 +35,10 @@
   <a href="mailto:denisgfespanhol@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <p>Aprendi, mergulhado no medo de tocar um vespeiro criado por mim, que a picada é inevitável. - De mim para mim.</p>
+  <img src="https://gifimage.net/wp-content/uploads/2018/11/deku-rocking-gif-6.gif" target="_blank" width="200px" />
 </div>
