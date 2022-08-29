@@ -39,6 +39,6 @@
 <br>
 
 <div align="center">
-  <p>Aprendi, mergulhado no medo de tocar um vespeiro criado por mim, que a picada é inevitável. - De mim para mim.</p>
+  <p>The cave you fear to enter holds the treasure you seek. - Joseph Campbell.</p>
   <img src="https://gifimage.net/wp-content/uploads/2018/11/deku-rocking-gif-6.gif" target="_blank" width="200px" />
 </div>
