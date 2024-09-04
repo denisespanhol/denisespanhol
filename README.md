@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center"><a href="https://www.linkedin.com/in/denisespanhol/"><i>Denis Espanhol</i></a> aqui! Espero que esteja bem!</h1>
-  <p align="center">Atualmente estudando Desenvolvimento de Games com Unity e Game Design na <a href="https://ebaconline.com.br/"><i>EBAC</i></a>, e ministrando aulas de programação para o fundamental I, no <a href="https://fundacaoromi.org.br/fundacao/nei/"><i>Núcleo de Educação Integrada da Fundação Romi</i></a>, em Santa Bárbara D'Oeste/SP, através de ferramentas como Scratch, Kodu Game Lab, Arduino etc.</p>
+  <h1 align="center"><a href="https://www.linkedin.com/in/denisespanhol/"><i>Denis Espanhol</i></a> here! Welcome!</h1>
+  <p align="center">Currently studying Game Development with Unity and Game Design at <a href="https://ebaconline.com.br/"><i>EBAC</i></a>, graduating in Digital Games at <a href="https://www.fatec.edu.br/"><i>FATEC</i></a>, and working on the puzzle/platform [project Spooky Workers](https://github.com/ronaldosenajr/spooky-workers), due out on Steam before the end of 2025!.</p>
 </div>
 
 
